@@ -9,5 +9,9 @@
   <b>GPG:</b> 37DA 6F2F 5996 6316
   <hr>
   <a href="source/whoami.html">whoami</a>
+  <br>
+  <a href="https://github.com/plebhash" target="_blank">code</a>
+  <br>
+  <a href="https://x.com/plebhash" target="_blank">tweets</a>
 
 </center>
