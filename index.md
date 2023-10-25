@@ -1,6 +1,6 @@
 <center>
  
-  <b># plebhash #</b>
+  <b>$ plebhash #</b>
   <br><br>
   bitcoin, nix, nym, rust.
   <br>
