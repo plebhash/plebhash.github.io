@@ -12,6 +12,8 @@
   <br>
   <a href="https://github.com/plebhash" target="_blank">code</a>
   <br>
+  <a href="https://keybase.io/plebhash" target="_blank">keybase</a>
+  <br>
   <a href="https://x.com/plebhash" target="_blank">tweets</a>
 
 </center>
