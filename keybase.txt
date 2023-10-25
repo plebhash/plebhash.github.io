@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/plebhash
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://plebhash.github.io
+  * I am plebhash (https://keybase.io/plebhash) on keybase.
+  * I have a public key ASArB9qdCw7gklZPSOHuEAjF3qgdukGdiUX1ox26Whg2xgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01202b07da9d0b0ee092564f48e1ee1008c5dea81dba419d8945f5a31dba5a1836c60a",
+      "host": "keybase.io",
+      "kid": "01202b07da9d0b0ee092564f48e1ee1008c5dea81dba419d8945f5a31dba5a1836c60a",
+      "uid": "58a735136b1f130d60d84c4f5a83d419",
+      "username": "plebhash"
+    },
+    "merkle_root": {
+      "ctime": 1698250163,
+      "hash": "5f25eb038efb04a8c6999b9c2673e0d16479af38829635e9139bf58c1471fd25c280a165e9d443c4663b3881935f374d42e3d99ca2bb03c49083ab7420d3357d",
+      "hash_meta": "8135f4b9332255aac51039e61f5e4ff3688307f17d97f2d191f7dd029aaee7f3",
+      "seqno": 25071585
+    },
+    "service": {
+      "entropy": "8vN9u/zTx1+VN4Bz4g6KLlOp",
+      "hostname": "plebhash.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.2"
+  },
+  "ctime": 1698250200,
+  "expire_in": 504576000,
+  "prev": "972894c818e032570e5ab32d808efd5ca84ae8586b5b986bddd0ee6051f1858c",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgKwfanQsO4JJWT0jh7hAIxd6oHbpBnYlF9aMduloYNsYKp3BheWxvYWTESpcCCMQglyiUyBjgMlcOWrMtgI79XKhK6FhrW5hr3dDuYFHxhYzEICtirRxomtVO9YrLpNy+g++KIccMx+RKtzG3Kdy5v8fuAgHCo3NpZ8RA+K/sLVd6SiJQ980kIuOo1zEY94HEdffXALcucycfKjEWprwxDZHGwOjvduLd0LGu3BXL/iIe/JFTyVQ+JXzsDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIADk2HN2J0OfQzfr8DjctjvqkctngE4JjS3gemc3e7H2o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/plebhash
+
+==================================================================
