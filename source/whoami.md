@@ -11,7 +11,7 @@
   <a href="https://nixos.org" target="_blank">nix</a><br>
   <a href="https://nymtech.net" target="_blank">nym</a><br>
   <a href="https://rust-lang.org" target="_blank">rust</a><br>
-
+  <br>
   <hr>
 
   <a href="../index.html">home</a>
