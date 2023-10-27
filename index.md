@@ -10,6 +10,8 @@
   <hr>
   <a href="source/whoami.html">whoami</a>
   <br>
+  <a href="source/projects.html">projects</a>
+  <br>
   <a href="https://github.com/plebhash" target="_blank">code</a>
   <br>
   <a href="https://keybase.io/plebhash" target="_blank">keybase</a>
