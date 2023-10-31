@@ -4,7 +4,7 @@
   <br>
   <img src="plebhash.png" width="300" height="300">
   <br><br>
-  bitcoin, nix, nym, rust.
+  bitcoin, nix, mixnets, rust.
   <br>
   <b>PGP:</b> 37DA 6F2F 5996 6316
   <hr>
