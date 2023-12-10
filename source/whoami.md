@@ -8,6 +8,7 @@
   <br><br>
   Nowadays, my interests are focused on: <br>
   <a href="http://bitcoin.org" target="_blank">bitcoin</a><br>
+  <a href="http://stratumprotocol.org" target="_blank">bitcoin mining</a><br>
   <a href="https://nixos.org" target="_blank">nix</a><br>
   <a href="https://paritytech.github.io/mixnet-spec/" target="_blank">mixnets</a><br>
   <a href="https://rust-lang.org" target="_blank">rust</a><br>
