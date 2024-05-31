@@ -12,7 +12,7 @@
   <br>
   <img src="plebhash.png" width="300" height="300">
   <br><br>
-  bitcoin, mining, nix, mixnets, rust.
+  bitcoin, mining, nix, rust.
   <br>
   <b>PGP:</b> 37DA 6F2F 5996 6316
   <br>
