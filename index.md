@@ -44,10 +44,10 @@ a {color:white}
     </tr></thead>
   <tbody>
     <tr>
-      <td><center>a protocol for pooled Bitcoin mining<br><br>funded by: <br> <img src="spiral.svg" width="50" height="50"><br><a href="https://spiral.xyz" target="_blank">spiral.xyz</a></center></td>
+      <td><center>a protocol for pooled Bitcoin mining<br><br>grant: <br> <img src="spiral.svg" width="50" height="50"><br><a href="https://spiral.xyz" target="_blank">spiral.xyz</a></center></td>
       <td><center>an archive of Nix derivations<br>for old bitcoin releases and custom forks</center></td>
       <td><center>a pleb-friendly Bitcoin mining pool leveraging:
-        <br>
+        <br><br>
         - Lightning via <a href="https://lightningdevkit.org/">LDK</a><br>
         - StratumV2 via <a href="https://stratumprotocol.org">SRI</a><br>
       </center></td>
