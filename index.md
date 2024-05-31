@@ -55,6 +55,6 @@ a {color:white}
   </tbody>
 </table>
 
-<img src="pick.png">plebs be hashin<img src="ray.png">
+<img src="pick.svg" height="20">plebs be hashin<img src="ray.svg" height="20">
 
 </center>
