@@ -56,7 +56,7 @@ a {color:white}
 </table>
 
 <br>
-<img src="pick.svg" height="20">plebs be hashin<img src="ray.svg" height="20">
+<img src="pick.svg" height="20"> plebs be hashin <img src="ray.svg" height="20">
 <br><br>
 
 </center>
