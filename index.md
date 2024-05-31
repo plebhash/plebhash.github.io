@@ -12,8 +12,8 @@
   <br>
   <img src="plebhash.png" width="300" height="300">
   <br><br>
-  bitcoin, mining, nix, rust.
-  <br>
+  bitcoin+mining+nix+rust
+  <br><br>
   <b>PGP:</b> 37DA 6F2F 5996 6316
   <br>
   <b>npub</b>1rqx9zlmy7k2mre2t6t880rxv9fttzyl95jc5ym2tpfpepqcppkcs3ss548
