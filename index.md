@@ -55,6 +55,8 @@ a {color:white}
   </tbody>
 </table>
 
+<br>
+
 <hr>
 
 <br>
@@ -81,6 +83,10 @@ Full disclosure on <b>plebpool</b>
     </tr>
   </tbody>
 </table>
+
+<br>
+
+<hr>
 
 <br>
 <img src="pick.svg" height="20"> plebs be hashin <img src="ray.svg" height="20">
