@@ -55,6 +55,32 @@ a {color:white}
   </tbody>
 </table>
 
+<hr>
+
+<br>
+
+<table class="tg"><thead>
+    <tr>
+      <th><center>
+Full disclosure on <b>plebpool</b>
+      </center></th>
+    </tr></thead>
+  <tbody>
+    <tr>
+      <td><center>
+      All code is provided as FOSS (under <a href="https://github.com/plebemineira/plebpool/blob/master/LICENSE-APACHE" target="_blank">Apache 2.0</a> + <a href="https://github.com/plebemineira/plebpool/blob/master/LICENSE-MIT" target="_blank">MIT</a>), and I have no intention to create a business or revenue stream from it.
+      <br><br>
+      Given the low hashrate this pool will attract (if any), this implementation will never be meaningful economic competition on the Bitcoin mining landscape.
+      <br><br>
+      While a harsh critic could potentially label this as a LARP and a waste of time, I personally feel this is an important exercise with the goals of:
+      <br>
+      - walking the shoes of a community developer trying to consume SRI APIs
+      - creating community engagement with the pleb mining community, where a lot of FOSS hasher hardware is flourishing (e.g.: <a href="https://bitaxe.org" target="_blank">BitAxe</a>)
+      </center></td>
+    </tr>
+  </tbody>
+</table>
+
 <br>
 <img src="pick.svg" height="20"> plebs be hashin <img src="ray.svg" height="20">
 <br><br>
