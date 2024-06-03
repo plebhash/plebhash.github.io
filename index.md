@@ -35,7 +35,7 @@ a {color:white}
   <hr>
 
   work
-  <br>
+  <br><br>
   <table class="tg"><thead>
     <tr>
       <th><center><img src="sv2.svg" width="100" height="100"><br><a href="https://stratumprotocol.org" target="_blank">Stratum Reference Implementation</a></center></th>
@@ -75,6 +75,7 @@ Full disclosure on <b>plebpool</b>
       While a harsh critic could potentially label this as a LARP and a waste of time, I personally feel this is an important exercise with the goals of:
       <br>
       - walking the shoes of a community developer trying to consume SRI APIs
+      <br>
       - creating community engagement with the pleb mining community, where a lot of FOSS hasher hardware is flourishing (e.g.: <a href="https://bitaxe.org" target="_blank">BitAxe</a>)
       </center></td>
     </tr>
