@@ -35,7 +35,7 @@ a {color:white}
   <hr>
 
   work
-  <br><br>
+  <br>
   <table class="tg"><thead>
     <tr>
       <th><center><img src="sv2.svg" width="100" height="100"><br><a href="https://stratumprotocol.org" target="_blank">Stratum Reference Implementation</a></center></th>
