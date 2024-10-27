@@ -38,48 +38,13 @@ a {color:white}
   <br>
   <table class="tg"><thead>
     <tr>
-      <th><center><img src="sv2.svg" width="100" height="100"><br><a href="https://stratumprotocol.org" target="_blank">Stratum Reference Implementation</a></center></th>
+      <th><center><img src="sv2.svg" width="100" height="100"><br><a href="https://stratumprotocol.org" target="_blank">Stratum V2 Reference Implementation</a></center></th>
       <th class="tg-0lax"><center><img src="nix-bitcoin-core-archive.png" height="100"><br><a href="https://github.com/plebhash/nix-bitcoin-core-archive" target="_blank">nix-bitcoin-core-archive</a></center></th>
-      <th class="tg-0lax"><center><img src="plebpool.png" height="100"><br><a href="https://github.com/plebemineira/plebpool" target="_blank">plebpool</a></center></th>
     </tr></thead>
   <tbody>
     <tr>
       <td><center>a protocol for pooled Bitcoin mining<br><br>grant: <br> <img src="spiral.svg" width="50" height="50"><br><a href="https://spiral.xyz" target="_blank">spiral.xyz</a></center></td>
       <td><center>an archive of Nix derivations<br>for old bitcoin releases and custom forks</center></td>
-      <td><center>a pleb-friendly Bitcoin mining pool leveraging:
-        <br><br>
-        - Lightning via <a href="https://lightningdevkit.org/">LDK</a><br>
-        - StratumV2 via <a href="https://stratumprotocol.org">SRI</a><br>
-      </center></td>
-    </tr>
-  </tbody>
-</table>
-
-<br>
-
-<hr>
-
-<br>
-
-<table class="tg"><thead>
-    <tr>
-      <th><center>
-Full disclosure on <b>plebpool</b>
-      </center></th>
-    </tr></thead>
-  <tbody>
-    <tr>
-      <td><center>
-      All code is provided as FOSS (under <a href="https://github.com/plebemineira/plebpool/blob/master/LICENSE-APACHE" target="_blank">Apache 2.0</a> + <a href="https://github.com/plebemineira/plebpool/blob/master/LICENSE-MIT" target="_blank">MIT</a>), and I have no intention to create a business or revenue stream from it.
-      <br><br>
-      Given the low hashrate this pool will attract (if any), this implementation will never be meaningful economic competition on the Bitcoin mining landscape.
-      <br><br>
-      While a harsh critic could potentially label this as a LARP and a waste of time, I personally feel this is an important exercise with the goals of:
-      <br>
-      - walking the shoes of a community developer trying to consume SRI APIs
-      <br>
-      - creating community engagement with the pleb mining community, where a lot of FOSS hasher hardware is flourishing (e.g.: <a href="https://bitaxe.org" target="_blank">BitAxe</a>)
-      </center></td>
     </tr>
   </tbody>
 </table>
