@@ -4,7 +4,8 @@
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:white;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-
+.tb {}
+.tb td{border-width: 0}
 body {background-color:black;color:white;}
 a {color:white}
 </style>
@@ -43,7 +44,7 @@ a {color:white}
     </tr></thead>
   <tbody>
     <tr>
-      <td><center>a protocol for pooled Bitcoin mining<br><br>grant: <br> <img src="spiral.svg" width="50" height="50"><br><a href="https://spiral.xyz" target="_blank">spiral.xyz</a></center></td>
+      <td><center>a protocol for pooled Bitcoin mining<br><br>funding:<table class="tb"><td><center><img src="vinteum.png" width="50" height="50"><br><a href="https://vinteum.org" target="_blank">vinteum.org</a><br>2025</center></td><td><center><img src="spiral.svg" width="50" height="50"><br><a href="https://spiral.xyz" target="_blank">spiral.xyz</a><br>2024</center></td></table></td>
       <td><center>an archive of Nix derivations<br>for old bitcoin releases and custom forks</center></td>
     </tr>
   </tbody>
