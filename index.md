@@ -15,7 +15,7 @@ a {color:white}
   <br>
   <b>$ plebhash #</b>
   <br>
-  <img src="plebhash.png" width="300" height="300">
+  <img src="plebhash.png" width="500" height="500">
   <br><br>
   bitcoin+mining+nix+rust
   <br><br>
