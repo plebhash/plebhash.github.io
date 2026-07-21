@@ -27,6 +27,8 @@ a {color:white}
   <br>
   <a href="source/whoami.html">whoami</a>
   <br>
+  <a href="source/blog/blog.html" target="_blank">blog</a>
+  <br>
   <a href="https://github.com/plebhash" target="_blank">code</a>
   <br>
   <a href="https://x.com/plebhash" target="_blank">tweets</a>
