@@ -44,7 +44,7 @@ a {color:white}
     </tr></thead>
   <tbody>
     <tr>
-      <td><center>a protocol for pooled Bitcoin mining<br><br>funding:<table class="tb"><td><center><img src="vinteum.png" width="50" height="50"><br><a href="https://vinteum.org" target="_blank">vinteum.org</a><br>2025, 2026</center></td><td><center><img src="spiral.svg" width="50" height="50"><br><a href="https://spiral.xyz" target="_blank">spiral.xyz</a><br>2024</center></td></table></td>
+      <td><center>a protocol for pooled Bitcoin mining<br><br>funding:<table class="tb"><td><center><img src="btrust.png" width="50" height="50"><br><a href="https://btrust.tech" target="_blank">btrust.tech</a><br>2026, 2027</center></td><td><center><img src="vinteum.png" width="50" height="50"><br><a href="https://vinteum.org" target="_blank">vinteum.org</a><br>2025, 2026</center></td><td><center><img src="spiral.svg" width="50" height="50"><br><a href="https://spiral.xyz" target="_blank">spiral.xyz</a><br>2024</center></td></table></td>
       <td><center>an archive of Nix derivations<br>for old bitcoin releases and custom forks</center></td>
     </tr>
   </tbody>
