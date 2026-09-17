@@ -31,7 +31,7 @@ a {color:white}
   <br>
   <a href="https://x.com/plebhash" target="_blank">tweets</a>
   <br>
-  <a href="https://iris.to/npub1rqx9zlmy7k2mre2t6t880rxv9fttzyl95jc5ym2tpfpepqcppkcs3ss548" target="_blank">notes and other stuff transmitted by relay</a>
+  <a href="https://primal.net/p/nprofile1qqspsrz30aj0t9d3u49a9nnh3nxz5443z0j6fv2zd49s5sussvqsmvg76wgr2" target="_blank">notes and other stuff transmitted by relay</a>
   <br><br>
   <hr>
 
